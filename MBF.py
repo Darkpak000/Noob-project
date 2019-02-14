@@ -335,7 +335,7 @@ def menu():
            {\rmX\rh}v{\rmX\rh}|\rcPRX\rh|==========.
              [']  /'|'\           \\
                  /  \  \           '
-                 \_  \_ \_    \rk*\LahaduUnderground ZomBie
+                 \_  \_ \_    \rk*\DragonFly ZomBie
 \rk###########################################################
 #             \rb*MULTY BRUTEFORCE FACEBOOK*\rk                 #
 # \rhBY\rp                                             RUZTAM \rk#
