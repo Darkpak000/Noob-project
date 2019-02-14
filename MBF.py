@@ -335,10 +335,10 @@ def menu():
            {\rmX\rh}v{\rmX\rh}|\rcPRX\rh|==========.
              [']  /'|'\           \\
                  /  \  \           '
-                 \_  \_ \_    \rk*\rhDragonFly ZomBie
+                 \_  \_ \_    \rk*\LahaduUnderground ZomBie
 \rk###########################################################
 #             \rb*MULTY BRUTEFORCE FACEBOOK*\rk                 #
-# \rhBY\rp                                             PIRMANSX \rk#
+# \rhBY\rp                                             RUZTAM \rk#
 # \rhGroup FB\rp  https://m.facebook.com/groups/164201767529837 \rk#
 # \rhGitHub\rp                      https://github.com/pirmansx \rk#
 #       \rmDo Not Use This Tool For IllegaL Purpose          \rk#
